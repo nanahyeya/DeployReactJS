@@ -9,7 +9,7 @@ on:
 
 env:
   DOCKER_IMAGE: springbootreactjs
-  DOCKER_TAG: client0.3
+  DOCKER_TAG: client0.4
   
 jobs:
   Docker:
